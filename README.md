@@ -1,4 +1,4 @@
-# Exp 04 Elbow Method using K-Means Clustering
+# Exp 4 Elbow Method using K-Means Clustering
 
 **Date:**
 
